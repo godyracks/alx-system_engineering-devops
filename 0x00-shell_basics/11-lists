@@ -1,0 +1,2 @@
+#!/bin/bash
+(ls -al .; cd ..; ls -al .; cd -) && ls -al /boot
