@@ -1,1 +1,2 @@
-Applications
+#!/bin/bash
+ls
